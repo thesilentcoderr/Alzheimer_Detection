@@ -24,7 +24,6 @@ import seaborn as sns
 from sklearn import decomposition, preprocessing, svm
 import sklearn.metrics as metrics 
 from time import sleep 
-from tqdm.notebook import tqdm
 import os
 sns.set()
 
