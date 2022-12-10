@@ -15,4 +15,4 @@ opencv-python-headless
 flask
 pandas
 numpy
-skimage
+scikit-image
